@@ -1,4 +1,4 @@
-"# Search-Engine-Arama-Motoru-" 
+# Search Engine (Arama Motoru)
 
 Arama
 motorlarının en temel aşaması, &quot;crawling&quot; adı verilen
