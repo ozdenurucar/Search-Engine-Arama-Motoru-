@@ -1,7 +1,12 @@
-# Search Engine (Arama Motoru)
+# Search Engine
 
-Arama
-motorlarının en temel aşaması, &quot;crawling&quot; adı verilen
+
+The most basic step of the search engines is to crawl the contents of the web sites called 'crawling' and to analyze the data and store them in giant databases. Crawling is performed automatically by computers. In the meantime, each page on the website is visited one by one, but this process is performed much faster than a person can. Crawling, a process without end, so search engines periodically crawl web sites. Step by step in the project; The keyword search process within the Url is part of the crawling process, which is the basis of the search engines, including ranking of keywords by keyword switching, ranking websites and semantic analysis. 
+The project was developed using the Python programming language in the Visual Studio environment. Python version 3.6 was used. In order to perform the necessary algorithms in the project, the parsing process is used in the Beautifulsoup Framework in python. Flask Framework was used to transfer the project to the web. Flask is a small and fast framework that can work with python. The web design section of the page uses HTML and CSS languages.
+
+# Arama Motoru
+
+Arama motorlarının en temel aşaması, &quot;crawling&quot; adı verilen
 web sitelerindeki içerikleri taramaktan ve verilerin
 analiz edilerek dev veritabanlarında depolanmasından
 oluşuyor. Crawling işlemi, otomatik olarak
