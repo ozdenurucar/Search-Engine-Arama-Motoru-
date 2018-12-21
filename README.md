@@ -20,7 +20,7 @@ crawling işleminin parçalarıdır.
 
 Proje Visual Studio ortamında Python programlama dili
 kullanılarak geliştirilmiştir. Python 3.6 versiyonu
-kullanılmıştır. Projede istenen algoritmaları
+kullanılmıştır. Projede gerekli algoritmaları
 gerçekleştirmek amacıyla ayrıştırma(parse) işlemi için
 python içerisinde yer alan Beautifulsoup Framework’ü
 kullanılmıştır. Projenin web ortamına aktarılması için
