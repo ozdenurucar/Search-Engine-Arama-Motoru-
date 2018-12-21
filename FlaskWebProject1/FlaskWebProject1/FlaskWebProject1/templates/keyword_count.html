@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h2>{{ title }}.</h2>
+<h3>{{ message }}</h3>
+
+<div class="jumbotron">
+    <center><h1>Yerli Arama Motoru</h1></center>
+</div>
+<span style="font-size: 14px"></span>
+<span style="font-style: normal"><span style="font-weight: normal"></span></span>
+<form action="/keyword_count/" method="post">
+    URL:<br>
+    <input type="text" name="URL"><br>
+    Word:<br>
+    <input type="text" name="keyword"><br>
+    <br />
+    <button type="submit" name="OK">OK</button><br>
+    Result:<br>
+    <input type="text" value={{result}}>
+</form>
+<center></center>
+
+
+
+{% endblock %}

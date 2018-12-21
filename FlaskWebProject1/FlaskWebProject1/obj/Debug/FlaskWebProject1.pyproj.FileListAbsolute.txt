@@ -1,0 +1,3 @@
+C:\Users\ozden\Desktop\Yazılım Laboratuvarı\Yazlab-3\FlaskWebProject1-20171215T124504Z-001\FlaskWebProject1\FlaskWebProject1\obj\Debug\FlaskWebProject1.pyproj.CoreCompileInputs.cache
+C:\Users\ozden\Desktop\Yazılım Laboratuvarı\Yazlab-3\0.70\FlaskWebProject1\FlaskWebProject1\obj\Debug\FlaskWebProject1.pyproj.CoreCompileInputs.cache
+C:\Users\ozden\Desktop\Yazılım Laboratuvarı\Yazlab-3\0.90\FlaskWebProject1\FlaskWebProject1\obj\Debug\FlaskWebProject1.pyproj.CoreCompileInputs.cache
